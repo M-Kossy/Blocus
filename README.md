@@ -10,10 +10,10 @@ Céline AZEVEDO
  --> Compilation des bouts de code pour créer un fichier exécutable.
 
 ### make run
- --> Lancement du fichier éxécutable / Démarrage du jeu
+ --> Lancement du fichier éxécutable / Démarrage du jeu.
 
 ### make clean
- --> effacement des fichiers créé avec "make"
+ --> Effacement des fichiers créé avec "make".
 
 
 ## Rapport
