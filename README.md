@@ -7,7 +7,7 @@ Céline AZEVEDO
 ## Utilisation du Makefile
 
 ### make 
- --> Compilation des bouts de code pour créer un fichier éxécutable.
+ --> Compilation des bouts de code pour créer un fichier exécutable.
 
 ### make run
  --> Lancement du fichier éxécutable / Démarrage du jeu
