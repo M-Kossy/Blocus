@@ -14,3 +14,8 @@ Céline AZEVEDO
 
 ### make clean
  --> effacement des fichiers créé avec "make"
+
+
+## Rapport
+
+[Lien vers le rapport](https://github.com/M-Kossy/Blocus/blob/main/Rapport.pdf)
